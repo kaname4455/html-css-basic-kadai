@@ -1,0 +1,56 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+  }
+  .blue {
+    color: skyblue;
+  }
+
+  #生年月日 {
+    color: skyblue;
+  }
+  
+  #趣味 {
+    color: skyblue;
+  }
+
+  #プログラミングを始めた理由 {
+    color: skyblue;
+  }
+
+  .pink {
+    color: rgb(255, 192, 203);
+  }
+
+  #名前 {
+    color: rgb(255, 192, 203);
+  }
+
+  #血液型 {
+    color: rgb(255, 192, 203);
+  }  
+
+  #好きな食べ物 {
+    color: rgb(255, 192, 203);
+  }
+
+html {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    letter-spacing: 0.2em;
+    border-bottom: solid 3px  rgb(115, 115, 114)
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    text-shadow: 1px 1px 2px  gray;
+  }
+
+  #basic > p {
+    font-weight: bold
+  }
+
+
+
