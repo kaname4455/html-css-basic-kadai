@@ -5,11 +5,11 @@ body {
 body {
     font-family:"Arial", "Meiryo", sans-serif;
   }
-  p, .blue {
+  h2, .blue {
     color: skyblue;
 }
 
- p, .pink {
+ h2, .pink {
     color: rgb(255, 192, 203);
  }
 
