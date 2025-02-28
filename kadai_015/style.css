@@ -5,37 +5,13 @@ body {
 body {
     font-family:"Arial", "Meiryo", sans-serif;
   }
-  .blue {
+  p, .blue {
     color: skyblue;
-  }
+}
 
-  #生年月日 {
-    color: skyblue;
-  }
-  
-  #趣味 {
-    color: skyblue;
-  }
-
-  #プログラミングを始めた理由 {
-    color: skyblue;
-  }
-
-  .pink {
+ p, .pink {
     color: rgb(255, 192, 203);
-  }
-
-  #名前 {
-    color: rgb(255, 192, 203);
-  }
-
-  #血液型 {
-    color: rgb(255, 192, 203);
-  }  
-
-  #好きな食べ物 {
-    color: rgb(255, 192, 203);
-  }
+ }
 
 html {
     font-size: 20px;
