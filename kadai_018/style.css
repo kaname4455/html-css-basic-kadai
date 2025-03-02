@@ -47,10 +47,8 @@
   }
   
   #bottom {
-    display: inline-block;
     width: 800px;
     height: 300px;
-    margin: 10px auto;
     background-color: #87ceeb;
   }
   
