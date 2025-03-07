@@ -2,9 +2,9 @@ main {
     margin: 10px;
     padding: 10px;
   }
-parent {
+  #parent {
     display: flex;
-    align-content: space-around;
+    justify-content: space-around;
   }
 .contents {
 	border: 3px solid rgb(238, 204, 204);
